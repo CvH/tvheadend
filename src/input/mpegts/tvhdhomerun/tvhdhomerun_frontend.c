@@ -17,7 +17,7 @@
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include "libhdhomerun/hdhomerun.h"
+#include "hdhomerun.h"
 
 #include <fcntl.h>
 #include "tvheadend.h"
